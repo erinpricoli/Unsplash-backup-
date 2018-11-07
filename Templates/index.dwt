@@ -15,9 +15,12 @@
   </head>
   <body>
     <div class="container">
+		<h1>Hello, world!</h1>
+		<p>[My mission statement]</p>
       <!-- TemplateBeginEditable name="EditRegion3" -->
-      <h1>Hello, world!</h1>
+		<p>[Placeholder content]</p>
       <!-- TemplateEndEditable -->
+		<p>[footer]</p>
     </div>
     
     <!-- Optional JavaScript --> 
